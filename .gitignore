@@ -11,3 +11,14 @@
 
 # Ignore Composer-managed dependencies.
 vendor/
+
+
+
+# Ignore paths that contain user-generated content.
+.idea/*
+
+
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
